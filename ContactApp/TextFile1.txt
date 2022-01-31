@@ -1,0 +1,14 @@
+﻿// things todo 
+
+notes have title and description
+
+[x] save notes
+[x] retrive notes
+[x] Note lists
+[] show notes
+[] edit note? 
+[x] Get command (list, show, save)
+[] REFACTOR - Scalibility?
+
+BUG section
+[] Dictionary is not suitable for this solution. 
