@@ -12,3 +12,11 @@ notes have title and description
 
 BUG section
 [] Dictionary is not suitable for this solution. 
+
+
+1516 + 694565498 = 1654968 / 3
+
+1516
+694565498
+3
+4
